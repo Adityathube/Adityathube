@@ -38,7 +38,7 @@ Build strong **CS fundamentals** and turn them into real-world software.
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/aditya-thube-23115b350/) • [GitHub](https://github.com/Adityathube)
+[LinkedIn](https://www.linkedin.com/in/aditya-thube-23115b350/) • [GitHub](https://github.com/Adityathube) • [Leetcode](https://leetcode.com/u/Cf0rqVFGXl/)
 
 ---
 
