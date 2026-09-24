@@ -42,4 +42,4 @@ Build strong **CS fundamentals** and turn them into real-world software.
 
 ---
 
-⭐ **Build something. Learn something. Repeat.**
+⭐ **Build something. Learn something. Repeat.###**
