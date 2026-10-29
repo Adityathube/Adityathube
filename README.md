@@ -24,4 +24,21 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Adityathube&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Adityathube/Adityathube/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Adityathube/Adityathube/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Adityathube/Adityathube/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
