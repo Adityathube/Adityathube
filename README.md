@@ -61,13 +61,11 @@ A cybersecurity-focused project exploring honeypot management and security monit
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Adityathube/honeypot-management-system)
 
-### 📊 Cricket Data Analytics Dashboard
-
-A Power BI dashboard built to explore cricket data and present insights through interactive data visualizations.
-
 ### 🌐 Personal Portfolio Website
 
 A personal developer portfolio built with React, Vite, and Tailwind CSS to showcase my skills, projects, and achievements.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Adityathube/my-portfolio)
 
 ## 📊 GitHub Analytics
 
