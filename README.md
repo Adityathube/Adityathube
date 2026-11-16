@@ -77,11 +77,8 @@ A personal developer portfolio built with React, Vite, and Tailwind CSS to showc
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Adityathube&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityathube&theme=darkhub&no-frame=true&no-bg=true&margin-w=6" alt="GitHub trophies" />
+  <img width="385" height="575" alt="image" src="https://github.com/user-attachments/assets/668d61d5-4011-4fc2-87f5-4b3f8b7194d6" />
 </p>
 
 ## 🐍 Contribution Snake
