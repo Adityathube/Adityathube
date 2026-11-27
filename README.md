@@ -6,7 +6,7 @@ I'm a B.Tech CSE student passionate about software development, cybersecurity, d
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Development-blue?style=for-the-badge" alt="Focus: Software Development" />
-  <img src="https://img.shields.io/badge/Interest-Cybersecurity-red?style=for-the-badge" alt="Interest: Cybersecurity" />
+  <img src="https://img.shields.io/badge/Interest-SDE-red?style=for-the-badge" alt="Interest: SDE" />
   <img src="https://img.shields.io/badge/Learning-Always-brightgreen?style=for-the-badge" alt="Always Learning" />
 </p>
 
